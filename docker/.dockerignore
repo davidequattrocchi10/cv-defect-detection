@@ -1,0 +1,14 @@
+.venv/
+.git/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/raw/
+data/processed/
+models/
+*.pt
+*.pth
+.DS_Store
+notebooks/
