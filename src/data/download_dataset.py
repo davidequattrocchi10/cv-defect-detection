@@ -3,7 +3,7 @@
 # License: CC BY-NC-SA 4.0 — free for non-commercial use
 #
 # Manual download instructions:
-#   1. Visit the URL above and accept the license agreement.
+#   1. Visit the URL above.
 #   2. Download leather.tar.xz.
 #   3. Extract it so that the folder structure is:
 #        data/raw/leather/
